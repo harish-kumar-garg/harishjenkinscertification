@@ -4,7 +4,7 @@
   <groupId>mindtreeHarish</groupId>
   <artifactId>helloWorldHarishV011</artifactId>
   <packaging>war</packaging>
-  <version>1.0.2</version>
+  <version>1.0.02</version>
   <name>helloWorldHarish Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
